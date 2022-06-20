@@ -1,5 +1,5 @@
 {
-  "name": "The 72 angels of kabbala",
+  "name": "the-72-angels-of-kabbala",
   "version": "1.0.0",
   "description": "Express API to get information from 72 angels of kabbala",
   "main": "app.js",
@@ -18,5 +18,8 @@
   },
   "engines": {
     "node": ">=14"
+  },
+  "devDependencies": {
+    "netlify-cli": "^10.5.1"
   }
 }
