@@ -1,21 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-
-<br />
-
-# Node Api
+# Api-the-72-angels-of-the-Kabbal
 
 > The REST FULL API Using NODE EXPRESS MONGODB and NODEMOON. This API allow to create , get, edit and delete a list of students
 
-## LOOM VIDEO PRESENTING
-[Watch the presentation of the projet on Loom](#)
+# endpoint URL
+
+https://the-72-angels-of-the-kabbalah.onrender.com/
+
+
 
 ## Built With
-
-- Html
-- Css
-- Js
-- Linter
 - Webpack
 - NODEMOON
 - MONGODB
@@ -29,23 +24,6 @@
 - Twitter: [@twitterhandle](https://twitter.com/IrotoriB)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/baroka)
 
-
-## Collaborators
-
-### Run local server
-
-- Clone the repos
-```
-git clone https://github.com/Baroka-wp/node_api
-
-cd node_api
-
-// install dependencies
-npm i
-
-// run server
-npm start
-```
 
 ### Deployment
 - github page
