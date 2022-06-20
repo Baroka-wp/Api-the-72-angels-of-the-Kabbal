@@ -1,10 +1,10 @@
 {
-  "name": "express-hello-world",
+  "name": "The 72 angels of kabbala",
   "version": "1.0.0",
-  "description": "Express Hello World on Render",
+  "description": "Express API to get information from 72 angels of kabbala",
   "main": "app.js",
-  "repository": "https://github.com/render-examples/express-hello-world",
-  "author": "Render Developers",
+  "repository": "https://github.com/Api-the-72-angels-of-the-Kabbal",
+  "author": "Baroka IROTORI Developers",
   "license": "MIT",
   "private": false,
   "scripts": {

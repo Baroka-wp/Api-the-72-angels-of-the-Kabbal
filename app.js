@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const studentsRoutes = require('./controllers/studentsController');
+const angelsRoutes = require('./controllers/angelsController');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 require('./models/dbConfig.js');
@@ -8,7 +8,7 @@ const port = process.env.PORT || 3001;
 //MiddleWare
 app.use(bodyParser.json());
 app.use(cors())
-app.use('/', studentsRoutes)
+app.use('/', angelsRoutes)
 
 
 // Serve the files on port 8080.
